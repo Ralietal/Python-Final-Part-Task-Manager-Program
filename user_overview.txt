@@ -1,0 +1,25 @@
+Total number of users registered in taskmanager: 4
+STATISTICS FOR USER: admin
+Number of tasks assigned:      2
+Percentage tasks assigned:     67%
+Percentage tasks completed:    50%
+Percentage tasks incomplete:   50%
+Percentage incomplete&overdue  50%
+STATISTICS FOR USER: admin2
+Number of tasks assigned:      1
+Percentage tasks assigned:     33%
+Percentage tasks completed:    0%
+Percentage tasks incomplete:   100%
+Percentage incomplete&overdue  100%
+STATISTICS FOR USER: admin3
+Number of tasks assigned:      0
+Percentage tasks assigned:     0%
+Percentage tasks completed:    0%
+Percentage tasks incomplete:   0%
+Percentage incomplete&overdue  0%
+STATISTICS FOR USER: admin4
+Number of tasks assigned:      0
+Percentage tasks assigned:     0%
+Percentage tasks completed:    0%
+Percentage tasks incomplete:   0%
+Percentage incomplete&overdue  0%

@@ -1,0 +1,3 @@
+admin2, Reactor,Use taskmanager to assign cleaning resources,23Sept2021, 29Sept2021,No
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10Oct2019, 20Oct2019,No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10Oct2019, 25Oct2022,Yes
