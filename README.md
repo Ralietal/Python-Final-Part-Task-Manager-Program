@@ -1,1 +1,12 @@
-# Fourth-Capstone
+# Fourth-Capstone - Task Manager
+-This program allows users whose names and passwords have been saved in the users txt files to:
+- add task, view all task and view tasks of the logged-in individuals 
+- individuals can update the details of the tasks, eg due date, completion status, assign new user etc and write back to the txt file without duplicating the task
+- Admin ONLY is allowed to register new users and read the tasks and users statistics
+- Admin only can generate and display the following and stats
+-   tasks registered on taskmanager
+-   tasks completed 
+-   tasks due
+-   task not complete
+-   task not completed and ovedue
+-   task allocated to each user inidcating the above in percentages
