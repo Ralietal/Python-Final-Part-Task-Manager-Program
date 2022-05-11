@@ -1,4 +1,4 @@
-# Fourth-Capstone - Task Manager
+#Python-Final-Part-Task-Manager-Program
 -This program allows users whose names and passwords have been saved in the users txt files to:
 - add task, view all task and view tasks of the logged-in individuals 
 - individuals can update the details of the tasks, eg due date, completion status, assign new user etc and write back to the txt file without duplicating the task
